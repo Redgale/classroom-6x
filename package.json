@@ -1,0 +1,14 @@
+{
+  "name": "classroom-6x",
+  "version": "1.0.0",
+  "description": "Classroom 6x - A collection of unblocked games.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s public"
+  },
+  "dependencies": {
+    "serve": "^14.0.1"
+  },
+  "author": "Redgale",
+  "license": "MIT"
+}
